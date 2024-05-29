@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Melonns
 - 👀 I’m interested in Web Developing and Java
-- 🌱 I’m currently learning HTML, CSS, JAVA, 
+- 🌱 I’m currently learning HTML, CSS, JAVA, JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send an email on @alvianprasetio24@gmail.com
 
